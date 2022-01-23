@@ -1,2 +1,2 @@
 # practice5
-cls hw 
+https://kazifarabi73.github.io/practice5/
